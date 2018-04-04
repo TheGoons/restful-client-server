@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tasks>
+    <task id="1" priority="3" size="2" group="2" deadline="20170219" status="1" flag="">COMP1234 assignment</task>
+    <task id="2" priority="2" size="2" group="1" deadline="" status="2" flag=""> Mow the lawn"</task>
+    <task id="3" priority="2" size="2" group="1" deadline="" status="" flag="">Wash the car"</task>
+    <task id="4" priority="1" size="2" group="1" deadline="" status="" flag="">Paint the fence"</task>
+    <task id="6" priority="1" size="2" group="4" deadline="" status="" flag="">Intramural hockey game" </task>
+    <task id="7" priority="3" size="3" group="4" deadline="20170305" status="" flag="">Canucks hockey game"</task>
+    <task id="8" priority="2" size="1" group="3" deadline="" status="" flag="">Buy steel-toed boots"></task>
+    <task id="9" priority="1" size="3" group="3" deadline="20161231" status="1" flag="">Learn French"</task>
+    <task id="10" priority="2" size="1" group="4" deadline="" status="" flag="">Hit the gym"</task>
+    <task id="11" priority="3" size="1" group="1" deadline="" status="" flag="">Pay bills"</task>
+    <task id="12" priority="2" size="1" group="1" deadline="" status="" flag="">Meet George"</task>
+    <task id="13" priority="2" size="1" group="1" deadline="" status="" flag="1">Buy milk &amp; bread" </task>
+    <task id="14" priority="1" size="3" group="1" deadline="" status="" flag="">Read War &amp; Peace" </task>
+    <task id="15" priority="1" size="4" group="1" deadline="" status="" flag="">Organize the study" </task>
+    <task id="16" priority="3" size="" group="" deadline="" status="" flag="">not done</task>
+    <task id="17" priority="1" size="" group="" deadline="" status="" flag=""> THIS IS THE STATUS" </task>
+    <task id="18" priority="1" size="1" group="1" deadline="" status="status" flag="">Update the TODO task </task>
+</tasks>
